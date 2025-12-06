@@ -1,0 +1,51 @@
+Restaurant_Name,City,Country,Cuisine_Type,Michelin_Stars,Average_Price_USD,Chef,Established_Year,Seating_Capacity,Rating,Signature_Dish,Years_Operating,Price_Category,Star_Category,Continent,Price_Bucket,Computed_Years_Operating,Is_Ultra_Luxury
+Osteria Francescana,Modena,Italy,Italian Contemporary,3,320.0,Massimo Bottura,1995,28,4.9,Five Ages of Parmigiano,30,Luxury,Three Stars,Europe,Premium,30,0
+Odette,Singapore,Singapore,French Contemporary,3,320.0,Julien Royer,2008,32,4.9,Hokkaido Sea Urchin,17,Luxury,Three Stars,Asia,Premium,17,0
+The French Laundry,Yountville,USA,French,3,390.0,Thomas Keller,1994,60,4.9,Oysters and Pearls,31,Luxury,Three Stars,North America,Premium,31,0
+Arpège,Paris,France,French Vegetarian,3,425.0,Alain Passard,1986,40,4.9,Heirloom Tomatoes,39,Ultra-Luxury,Three Stars,Europe,Premium,39,1
+Mirazur,Menton,France,Mediterranean,3,350.0,Mauro Colagreco,1991,36,4.8,Salt Crusted Beetroot,34,Luxury,Three Stars,Europe,Premium,34,0
+Frantzén,Stockholm,Sweden,Nordic Contemporary,3,380.0,Björn Frantzén,2008,23,4.8,Reindeer Moss,17,Luxury,Three Stars,Europe,Premium,17,0
+Le Bernardin,New York,USA,French Seafood,3,295.0,Eric Ripert,1972,62,4.8,Barely Cooked Salmon,53,Luxury,Three Stars,North America,Mid-Range,53,0
+Piazza Duomo,Alba,Italy,Italian,3,310.0,Enrico Crippa,2005,35,4.8,Fassona Beef,20,Luxury,Three Stars,Europe,Premium,20,0
+Arzak,San Sebastián,Spain,Basque,3,295.0,Juan Mari Arzak,1897,50,4.8,Red Mullet,128,Luxury,Three Stars,Europe,Mid-Range,128,0
+Atelier Crenn,San Francisco,USA,Contemporary French,3,345.0,Dominique Crenn,2011,50,4.8,Kir Breton Royale,14,Luxury,Three Stars,North America,Premium,14,0
+Benu,San Francisco,USA,Contemporary American,3,298.0,Corey Lee,2010,56,4.8,Thousand Year Quail Egg,15,Luxury,Three Stars,North America,Mid-Range,15,0
+Alléno Paris,Paris,France,French Haute Cuisine,3,385.0,Yannick Alléno,2003,55,4.8,Cabbage & Caviar,22,Luxury,Three Stars,Europe,Premium,22,0
+La Pergola,Rome,Italy,Italian Haute Cuisine,3,310.0,Heinz Beck,1994,50,4.8,Fagottelli,31,Luxury,Three Stars,Europe,Premium,31,0
+Quique Dacosta,Dénia,Spain,Mediterranean,3,270.0,Quique Dacosta,1989,48,4.8,Rice with Seafood,36,Luxury,Three Stars,Europe,Mid-Range,36,0
+L'Astrance,Paris,France,French Contemporary,3,305.0,Pascal Barbot,2000,25,4.8,Lobster Ravioli,25,Luxury,Three Stars,Europe,Premium,25,0
+El Celler de Can Roca,Girona,Spain,Contemporary Catalan,3,280.0,Joan Roca,1986,45,4.7,El Mundo,39,Luxury,Three Stars,Europe,Mid-Range,39,0
+Geranium,Copenhagen,Denmark,New Nordic,3,420.0,Rasmus Kofoed,2007,40,4.7,Radish & Roses,18,Ultra-Luxury,Three Stars,Europe,Premium,18,1
+Eleven Madison Park,New York,USA,Contemporary American,3,365.0,Daniel Humm,1998,80,4.7,Lavender Honey Duck,27,Luxury,Three Stars,North America,Premium,27,0
+Alinea,Chicago,USA,Molecular Gastronomy,3,385.0,Grant Achatz,2005,64,4.7,Black Truffle Explosion,20,Luxury,Three Stars,North America,Premium,20,0
+Le Calandre,Rubano,Italy,Italian,3,290.0,Massimiliano Alajmo,1981,50,4.7,Risotto,44,Luxury,Three Stars,Europe,Mid-Range,44,0
+Azurmendi,Larrabetzu,Spain,Basque,3,265.0,Eneko Atxa,2005,45,4.7,Roasted Egg,20,Luxury,Three Stars,Europe,Mid-Range,20,0
+Ultraviolet,Shanghai,China,Avant-garde,3,490.625,Paul Pairet,2012,10,4.6,20 Textures,13,Ultra-Luxury,Three Stars,Asia,Premium,13,1
+Noma,Copenhagen,Denmark,New Nordic,2,450.0,René Redzepi,2003,40,4.8,Fermented Vegetables,22,Ultra-Luxury,Two Stars,Europe,Premium,22,1
+Den,Tokyo,Japan,Japanese Kaiseki,2,280.0,Zaiyu Hasegawa,2007,26,4.7,Dentucky Fried Chicken,18,Luxury,Two Stars,Asia,Mid-Range,18,0
+SingleThread,Healdsburg,USA,Japanese-Californian,2,325.0,Kyle & Katina Connaughton,2016,48,4.7,Whole Roasted Chicken,9,Luxury,Two Stars,North America,Premium,9,0
+Restaurant Tim Raue,Berlin,Germany,Asian Fusion,2,245.0,Tim Raue,2010,48,4.7,Char Sui Duck,15,Premium,Two Stars,Europe,Mid-Range,15,0
+Narisawa,Tokyo,Japan,Japanese Innovative,2,275.0,Yoshihiro Narisawa,2003,36,4.7,Satoyama Cuisine,22,Luxury,Two Stars,Asia,Mid-Range,22,0
+Florilège,Tokyo,Japan,French Contemporary,2,235.0,Hiroyasu Kawate,2009,28,4.7,Ayu Fish,16,Premium,Two Stars,Asia,Mid-Range,16,0
+Steirereck,Vienna,Austria,Austrian Contemporary,2,265.0,Heinz Reitbauer,2005,60,4.7,Char with Hay,20,Luxury,Two Stars,Europe,Mid-Range,20,0
+Momofuku Ko,New York,USA,Contemporary American,2,285.0,Sean Gray,2008,12,4.7,Shaved Foie Gras,17,Luxury,Two Stars,North America,Mid-Range,17,0
+Restaurant André,Singapore,Singapore,Asian Fusion,2,285.0,André Chiang,2010,30,4.7,Octopus,15,Luxury,Two Stars,Asia,Mid-Range,15,0
+Amber,Hong Kong,Hong Kong,French,2,245.0,Richard Ekkebus,2005,46,4.7,Langoustine,20,Premium,Two Stars,Asia,Mid-Range,20,0
+Disfrutar,Barcelona,Spain,Mediterranean,2,250.0,Oriol Castro,2014,52,4.6,Panchino,11,Luxury,Two Stars,Europe,Mid-Range,11,0
+Mugaritz,Errenteria,Spain,Basque Experimental,2,275.0,Andoni Luis Aduriz,1998,20,4.6,Edible Stones,27,Luxury,Two Stars,Europe,Mid-Range,27,0
+Alchemist,Copenhagen,Denmark,Experimental,2,490.625,Rasmus Munk,2015,50,4.5,Dehydrated Malt Flatbread,10,Ultra-Luxury,Two Stars,Europe,Premium,10,1
+Asador Etxebarri,Axpe,Spain,Basque Grill,1,210.0,Victor Arguinzoniz,1990,30,4.7,Grilled Turbot,35,Premium,One Star,Europe,Mid-Range,35,0
+The Clove Club,London,UK,British Contemporary,1,165.0,Isaac McHale,2013,40,4.6,Buttermilk Chicken,12,Premium,One Star,Europe,Mid-Range,12,0
+Burnt Ends,Singapore,Singapore,Modern BBQ,1,165.0,Dave Pynt,2013,26,4.6,Sanger,12,Premium,One Star,Asia,Mid-Range,12,0
+Septime,Paris,France,French Contemporary,1,95.0,Bertrand Grébaut,2011,28,4.5,Celeriac Toast,14,Fine Dining,One Star,Europe,Budget,14,0
+Central,Lima,Peru,Contemporary Peruvian,0,180.0,Virgilio Martínez,2008,50,4.8,Piranha & Coca,17,Premium,No Stars,South America,Mid-Range,17,0
+Maido,Lima,Peru,Nikkei,0,165.0,Mitsuharu Tsumura,2009,36,4.7,Causa Nikkei,16,Premium,No Stars,South America,Mid-Range,16,0
+Pujol,Mexico City,Mexico,Contemporary Mexican,0,155.0,Enrique Olvera,2000,55,4.7,Mole Madre,25,Premium,No Stars,North America,Mid-Range,25,0
+Gaggan Anand,Bangkok,Thailand,Progressive Indian,0,195.0,Gaggan Anand,2017,14,4.6,Lick It Up,8,Premium,No Stars,Asia,Mid-Range,8,0
+Quintonil,Mexico City,Mexico,Contemporary Mexican,0,140.0,Jorge Vallejo,2012,48,4.6,Esquites,13,Fine Dining,No Stars,North America,Budget,13,0
+Sühring,Bangkok,Thailand,Contemporary German,0,185.0,Thomas & Mathias Sühring,2014,48,4.6,Massaman Curry,11,Premium,No Stars,Asia,Mid-Range,11,0
+Boragó,Santiago,Chile,Chilean Contemporary,0,145.0,Rodolfo Guzmán,2006,40,4.6,Sea Urchin,19,Fine Dining,No Stars,South America,Budget,19,0
+Blue Hill at Stone Barns,Pocantico Hills,USA,Farm-to-Table,0,285.0,Dan Barber,2004,70,4.6,Root Vegetables,21,Luxury,No Stars,North America,Mid-Range,21,0
+White Rabbit,Moscow,Russia,Contemporary Russian,0,220.0,Vladimir Mukhin,2011,50,4.5,King Crab,14,Premium,No Stars,Europe,Mid-Range,14,0
+Leo,Bogotá,Colombia,Colombian Contemporary,0,125.0,Leonor Espinosa,2007,45,4.5,Amazon Ants,18,Fine Dining,No Stars,South America,Budget,18,0
+Lyle's,London,UK,British Contemporary,0,85.0,James Lowe,2014,38,4.5,Pork Chop,11,Fine Dining,No Stars,Europe,Budget,11,0
